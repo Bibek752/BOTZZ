@@ -1,0 +1,19 @@
+{
+  "name": "botz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js.old": "^11.6.5",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2"
+  }
+}
